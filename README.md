@@ -1,6 +1,6 @@
 # borc3.0 Bayesian Optimization with Reliability Constraints
 
-borc3.0 is a framework for structural optimization under uncertainty that combines Bayesian optimization with reliability constraints. 
+borc3.0: structural optimization under uncertainty - Bayesian optimization with reliability constraints. 
 
 ## Problem Formulation
 - We have a stochastic objective function `f(x, ξ)` where:
